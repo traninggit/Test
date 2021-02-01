@@ -6,7 +6,13 @@
 		{
 			"name": "frtpj",
 			"path": "frtpj"
+		},
+		{
+			"name": "second project",
+			"path": "second project"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
